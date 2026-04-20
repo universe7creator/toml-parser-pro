@@ -1,10 +1,9 @@
-module.exports = async (req, res) => {
+module.exports = (req, res) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Content-Type', 'application/json');
-  return res.status(200).json({
-    status: 'ok',
-    product: 'toml-parser-pro',
-    version: '1.0.0',
-    timestamp: new Date().toISOString()
+  res.status(200).json({
+    status: 'healthy',
+    service: 'TOML Parser Pro',
+    timestamp: new Date().toISOString(),
+    version: '1.0.0'
   });
 };

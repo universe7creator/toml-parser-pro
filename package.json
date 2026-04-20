@@ -1,14 +1,12 @@
 {
   "name": "toml-parser-pro",
   "version": "1.0.0",
-  "description": "Parse, validate, and convert TOML configuration files to JSON and back. Perfect for Rust, Python, and Node.js developers.",
+  "description": "Professional TOML parser and converter",
   "main": "api/process.js",
   "scripts": {
-    "dev": "node dev-server.js",
-    "vercel-build": "echo 'Build complete'"
+    "start": "vercel dev"
   },
-  "dependencies": {},
-  "engines": {
-    "node": ">=18.0.0"
-  }
+  "keywords": ["toml", "parser", "json", "yaml", "converter"],
+  "author": "UniverseCreator",
+  "license": "MIT"
 }

@@ -1,17 +1,10 @@
 {
   "name": "TOML Parser Pro",
   "slug": "toml-parser-pro",
-  "tagline": "Parse, validate, and convert TOML configuration files to JSON and back. Perfect for Rust, Python, and Node.js developers.",
-  "description": "Parse, validate, and convert TOML configuration files to JSON and back. Perfect for Rust, Python, and Node.js developers.",
-  "price": "9",
-  "features": [],
-  "tech_stack": "Vercel + Node.js",
+  "description": "Parse, validate and convert TOML files to JSON/YAML with syntax highlighting and error detection",
+  "price": "$19",
   "status": "building",
-  "vercel_url": null,
-  "github_url": null,
-  "lemonsqueezy_checkout_url": null,
-  "lemonsqueezy_product_id": null,
-  "webhook_url": null,
-  "created_cycle": null,
-  "deployed_cycle": null
+  "created_cycle": 978,
+  "category": "developer-tools",
+  "features": ["TOML to JSON", "TOML to YAML", "Syntax validation", "Error detection", "Syntax highlighting"]
 }
