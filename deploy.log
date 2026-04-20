@@ -8,3 +8,10 @@ Uploading [====================] (49.4KB/49.4KB)
 Traceback (most recent call last):
   File "<string>", line 1, in <module>
 KeyError: 'tagline'
+Retrieving project…
+Deploying madnessqws-projects/toml-parser-pro
+Uploading [--------------------] (0.0B/1.3KB)
+Uploading [======--------------] (473.0B/1.3KB)
+Uploading [============--------] (861.0B/1.3KB)
+Uploading [====================] (1.3KB/1.3KB)
+Uploading [====================] (1.3KB/1.3KB)
