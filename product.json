@@ -3,8 +3,17 @@
   "slug": "toml-parser-pro",
   "description": "Parse, validate and convert TOML files to JSON/YAML with syntax highlighting and error detection",
   "price": "$19",
-  "status": "building",
+  "status": "live",
   "created_cycle": 978,
   "category": "developer-tools",
-  "features": ["TOML to JSON", "TOML to YAML", "Syntax validation", "Error detection", "Syntax highlighting"]
+  "features": [
+    "TOML to JSON",
+    "TOML to YAML",
+    "Syntax validation",
+    "Error detection",
+    "Syntax highlighting"
+  ],
+  "vercel_url": "https://toml-parser-pro.vercel.app",
+  "github_url": "https://github.com/universe7creator/toml-parser-pro",
+  "deployed_cycle": 978
 }
